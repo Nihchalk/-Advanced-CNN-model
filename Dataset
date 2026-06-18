@@ -1,0 +1,14 @@
+NIH malaria cell image dataset
+
+Source: The dataset is uploaded from Kaggle and has been sourced from the US National Library of Medicine's NIH repository,
+meticulously curated by researchers at the Lister Hill National Center for Biomedical Communications.
+
+Total Volume: The repository consists of 27,560 images of segmented cells extracted from
+Giemsa-stained thin blood smear slides.
+
+Class Distribution: The data is perfectly balanced, containing exactly 13,780 images of parasitized cells 
+and 13,780 images of uninfected healthy cells.  
+
+Algorithmic Significance: This perfect 1.0 imbalance ratio is an advantage in medical datasets 
+as it prevents the deep learning model from developing a predictive bias toward a majority class.
+
